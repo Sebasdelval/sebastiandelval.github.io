@@ -6,7 +6,7 @@
     "name": "Sebastian Del Val",
     "title": "Vehicle Dynamics & Performance Engineer",
     "intro": "From a vehicle model to a decision at the track. I work at the intersection of simulation, controls and race performance.",
-    "about": "Motorsport started for me long before I knew what vehicle dynamics, telemetry or lap-time simulation were. At the beginning, it was simply fascination: the cars, the competition, the engineering and the idea that hundreds of people could work towards finding fractions of a second.\n\nAs I grew older, that fascination stopped being something I watched and became something I wanted to dedicate my life to.\n\nFrom that moment, I began making decisions with a very clear purpose: to become the strongest motorsport engineer I am capable of becoming.\n\nThat mindset influenced where I studied, what projects I joined, the jobs I accepted and eventually the decision to move countries in pursuit of better opportunities. I deliberately chose Mechanical Engineering and immersed myself in Formula Student because I wanted to understand racing cars beyond textbooks. I wanted to work on something real, make decisions, see the car on track and discover whether the work we had done actually made it faster.\n\nWhat began as my first opportunity in Formula Student grew into three seasons of increasingly demanding responsibility. I worked across vehicle dynamics, simulation, controls, telemetry and setup development, built the team's first full-vehicle digital twin and eventually progressed into leading Performance activities. I learned to correlate simulation with reality, support testing and competition, prioritise engineering work and turn analysis into decisions that could influence the car on track.\n\nThose years changed the way I saw engineering.\n\nThere is something addictive about spending days analysing a problem, proposing a solution and then standing beside a race car knowing that the stopwatch will ultimately tell you whether you were right. I discovered that I enjoyed the pressure. I enjoyed the responsibility. Most importantly, I discovered that whenever we improved something, my first thought was rarely satisfaction, it was where can we find the next improvement?\n\nAt the same time, I deliberately wanted experience outside the relatively protected environment of university competition. At Montesa Honda, engineering meant production deadlines, suppliers, validation, reliability, cost, operators and solutions that had to work repeatedly in the real world. Taking responsibility for industrial projects from development through implementation taught me to approach problems with discipline and ownership rather than simply producing technically interesting answers.\n\nToday, I am continuing that progression through an MSc in Motorsport Engineering at Oxford Brookes University, developing further in areas such as advanced vehicle dynamics, lap-time simulation and race engineering while remaining involved with Oxford Brookes Racing.\n\nBut qualifications alone are not why I came to the UK.\n\nI came because I wanted to place myself closer to the industry, the teams, the circuits and the people I can learn from. From the beginning, my intention has been to use every available opportunity to become better: university projects, Formula Student, testing, junior categories, volunteering, trackside work or simply being around engineers who know more than I do.\n\nI have no interest in waiting for the perfect opportunity to appear.\n\nI would rather create momentum myself.\n\nThere will always be engineers who started earlier than me, people with more experience, stronger connections or abilities I still need to develop. I cannot control that. What I can control is the amount of work I put in, how quickly I learn, how seriously I prepare and what I do when something goes wrong.\n\nAnd that is where I believe my greatest strength lies.\n\nWhen I decide that something matters, I find it very difficult to stop pursuing it.\n\nIf I lack knowledge, I study.\nIf I lack experience, I look for somewhere to gain it.\nIf I make a mistake, I want to understand it.\nIf a door does not open, I keep working until I am capable of opening another one.\n\nMy ambition is not tied to one championship or one badge. I want to build a career at the highest levels of motorsport, wherever engineering performance is taken seriously.\n\nThe areas that excite me most are those closest to the relationship between car, driver, data and lap time: Vehicle Performance, Race Engineering, Vehicle Dynamics, Simulation and trackside operations. But I also want to develop a broad understanding of the complete racing organisation, because the fastest car is never the product of one department.\n\nUltimately, I want to become the engineer a team can rely on when the pressure is highest: someone technically capable, calm enough to think clearly, willing to take responsibility and relentless about finding performance.\n\nI know that reaching that level will take years.\n\nThat does not discourage me.\n\nIt motivates me.\n\nI cannot know exactly which team, championship or opportunity will become the next step in that journey. What I do know is that I will continue learning, competing, searching for responsibility and putting myself in increasingly demanding environments until I reach the level I am aiming for.\n\n**Motorsport may have started as a passion. I have spent the years since turning it into a profession. And I am only getting started.**",
+    "about": "Motorsport first drew me in through the cars, the competition and the engineering behind every fraction of a second. It became the reason I chose Mechanical Engineering, joined Formula Student and moved to the UK: to become the strongest motorsport engineer I am capable of becoming.\n\nAcross three seasons at E-Tech Racing, I worked on vehicle dynamics, simulation, controls, telemetry and setup development. I built the team’s first full-vehicle digital twin and progressed from Performance Engineer to Head of Performance in 2025–2026. Testing taught me to question assumptions, correlate models with real data and turn analysis into decisions at the track. At Montesa Honda, industrialising a robotic welding cell added a different discipline: taking responsibility for quality, cost, reliability and delivery in production.\n\nToday, I am studying an MSc in Motorsport Engineering at Oxford Brookes University and remain involved with Oxford Brookes Racing. My focus is the relationship between car, driver, data and lap time. I want to keep learning through simulation, testing and trackside work, and become an engineer a team can rely on under pressure: technically capable, accountable and relentless about finding performance. Motorsport started as a passion. I am building it into a profession.",
     "email": "Sebasdelval@gmail.com",
     "location": "Oxford, UK · Barcelona, ES",
     "portrait": "",
@@ -14,7 +14,7 @@
     "heroCaption": "",
     "skills": "MATLAB, Simulink, IPG CarMaker, Python, Simscape, SolidWorks, PTC Creo, Altair Inspire, TIA Portal, R, AVL, Siemens NX, Simcenter STAR-CCM+, Adams",
     "experience": "2025–2026 | Head of Performance | E-Tech Formula Student\n2023–2025 | Performance Engineer | E-Tech Formula Student\n2025–2026 | Process Engineer | Montesa Honda\n2020–2024 | Founder & Operator | E-commerce",
-    "education": "2026–present | MSc Motorsport Engineering | Oxford Brookes University\n2022–2026 | BSc Mechanical Engineering | Universitat Politècnica de Catalunya\nBachelor’s thesis: Robotic MAG Welding Cell at Montesa Honda · 10/10 — Matrícula de Honor",
+    "education": "2026–present | MSc Motorsport Engineering | Oxford Brookes University\n2022–2026 | BSc Mechanical Engineering | Universitat Politècnica de Catalunya\nBachelor’s thesis: Robotic MAG Welding Cell at Montesa Honda · 10/10 — Highest Honours",
     "personal": ""
   },
   "projects": [
@@ -41,12 +41,12 @@
       ],
       "published": true,
       "imageCaptions": {
-        "./media/b49f8e12-46cf-45f8-9834-2734aa60cca2.png": "IPG model virtual Twin of the Car.",
-        "./media/8e81524d-ee99-48c4-bd8c-cca06af2a697.png": "SOC % of simulation with and without Regenrative Braking.",
-        "./media/5ccb212b-70f5-405b-8c55-ff3a0d4a1a68.png": "Traction Control Simulation and Data Analysis.",
-        "./media/5750c094-e90a-4f42-9b78-c39db6780f84.png": "Simulation results on Aero set up for Formula Student Germany.",
-        "./media/dfcd4fa5-af40-4f11-8fd4-498a1d0856e4.png": "Defined Masses for virtual Twin.",
-        "./media/750cb80d-d9d1-46f3-9f0a-81f0e306ec74.png": "Torque Vectoring simulations. "
+        "./media/b49f8e12-46cf-45f8-9834-2734aa60cca2.png": "Full-vehicle digital twin in IPG CarMaker.",
+        "./media/8e81524d-ee99-48c4-bd8c-cca06af2a697.png": "Simulated battery state of charge (%) with and without regenerative braking.",
+        "./media/5ccb212b-70f5-405b-8c55-ff3a0d4a1a68.png": "Traction-control simulation and data analysis.",
+        "./media/5750c094-e90a-4f42-9b78-c39db6780f84.png": "Aerodynamic setup simulation for Formula Student Germany.",
+        "./media/dfcd4fa5-af40-4f11-8fd4-498a1d0856e4.png": "Mass parameters defined for the digital twin.",
+        "./media/750cb80d-d9d1-46f3-9f0a-81f0e306ec74.png": "Torque-vectoring simulations."
       }
     },
     {
@@ -60,7 +60,7 @@
       "order": 2,
       "period": "2023–2026",
       "team": "E-Tech Formula Student",
-      "role": "Performance Lead",
+      "role": "Performance Engineer (2023–2025); Head of Performance (2025–2026)",
       "challenge": "Throughout my time at E-Tech Racing, I identified the importance of connecting our engineering development with the actual behaviour of the car on track. While simulation and theoretical analysis provided valuable information, physical testing was essential to validate our developments, identify performance limitations and understand how the different vehicle systems behaved under real operating conditions.\n\nOne of the main challenges was the limited availability of track time and the lack of a practical system for monitoring vehicle behaviour remotely. I therefore wanted to establish a more structured testing and trackside performance workflow, allowing us to maximise the engineering value of each test session while improving communication between the driver, the engineering team and the different technical departments.\n\nA particular priority was energy management during endurance events. Without access to live vehicle data, assessing the remaining battery energy and determining whether the driver could increase pace or needed to conserve energy was significantly more difficult. The objective was to introduce a basic real-time telemetry capability that would support informed decisions while the car was running.",
       "images": [
         "./media/10478072-c567-4453-946a-ca96834baf63.jpg",
@@ -76,16 +76,15 @@
       ],
       "published": true,
       "imageCaptions": {
-        "./media/10478072-c567-4453-946a-ca96834baf63.jpg": "Formula Student Spain (FSS)  - Left wingman",
-        "./media/bbdcd63e-fcf4-48e6-8290-bf7deb630c82.jpg": "Working in the car getting ready for mechanical scrutineering",
-        "./media/d608cf56-484b-40bd-8393-d8d998f53eb1.jpg": "E-Tech Racing at Formula Student Germany (FSG)",
-        "./media/30976a4b-d257-441d-a2cb-6441e60123b5.jpg": "Participation at design event ",
-        "./media/199254e9-19a9-4709-b74d-424711948df4.jpg": "Car running at acceleration event in FSG",
-        "./media/3e8b2fc4-9e12-4256-bf85-5bb509a79436.jpg": "Working in the car changing the set up",
-        "./media/a5206bfc-361c-4a8f-b789-068230d315ad.jpg": "Car running the endurance event at FSG",
-        "./media/663c200a-d271-4423-87a6-36f2391ea975.jpg": "On our way to the auto cross event in FSS",
-        "./media/1ddbefe4-3975-4208-bba7-661d9efb7d5f.jpg": "Going to mechanical crutineering at FSS",
-        "./media/d40ce581-ee05-4f77-9fe2-59e4d6385e28.jpg": "Basic Sketch of a desing of a testing circuit ",
+        "./media/10478072-c567-4453-946a-ca96834baf63.jpg": "Formula Student Spain (FSS) — left wingman.",
+        "./media/bbdcd63e-fcf4-48e6-8290-bf7deb630c82.jpg": "Preparing the car for mechanical scrutineering.",
+        "./media/d608cf56-484b-40bd-8393-d8d998f53eb1.jpg": "E-Tech Racing at Formula Student Germany (FSG).",
+        "./media/30976a4b-d257-441d-a2cb-6441e60123b5.jpg": "Taking part in the engineering design event.",
+        "./media/199254e9-19a9-4709-b74d-424711948df4.jpg": "The car competing in the acceleration event at FSG.",
+        "./media/a5206bfc-361c-4a8f-b789-068230d315ad.jpg": "The car competing in the endurance event at FSG.",
+        "./media/663c200a-d271-4423-87a6-36f2391ea975.jpg": "On the way to the autocross event at FSS.",
+        "./media/1ddbefe4-3975-4208-bba7-661d9efb7d5f.jpg": "On the way to mechanical scrutineering at FSS.",
+        "./media/d40ce581-ee05-4f77-9fe2-59e4d6385e28.jpg": "Initial layout sketch for a test circuit.",
         "./media/289680b8-e4da-4b83-964d-79d602178090.png": "IMU and INS sensor data from a test day."
       }
     },
@@ -93,14 +92,14 @@
       "id": "suspension",
       "title": "Car Development & Setup Optimisation",
       "category": "Vehicle dynamics",
-      "summary": "Using the full-vehicle simulation environment developed within the Performance department, I supported the definition of key parameters for the next vehicle before the final components were manufactured.\nThe project combined transmission ratio selection, suspension and chassis development, and setup optimisation, using lap-time simulation and vehicle-dynamics analysis to compare different configurations quantitatively and identify the solutions offering the greatest overall performance potential.",
+      "summary": "Developing suspension geometry, transmission ratios and vehicle setup through full-vehicle simulation and performance analysis.",
       "approach": "The new suspension geometry and chassis parameters were introduced into the existing vehicle model using MATLAB, Simulink, Simscape and IPG CarMaker. The suspension was parameterised so that changes in geometry could be evaluated within the context of the complete vehicle rather than analysing the suspension independently.\nDifferent design iterations could then be simulated under identical conditions and compared using objective performance indicators. This allowed us to study how changes to the suspension influenced characteristics such as wheel behaviour, load transfer, vehicle balance, lateral performance and overall lap-time response, while also identifying potential interactions with the tyres, aerodynamics and the rest of the vehicle.\nThis created a virtual development loop in which proposed components or geometries could be assessed, compared and refined before manufacturing. Instead of producing several physical versions and determining their effectiveness through track testing, simulation was used to narrow the design space and prioritise the most promising solutions for physical implementation.\nOnce the vehicle architecture had been established, the same model was used for setup optimisation. Suspension parameters, tyre conditions and vehicle balance could be modified and evaluated across different virtual circuits. Rather than looking only at total lap time, the analysis considered where performance was gained or lost around the lap and how the setup influenced the dynamic behaviour of the car.\nDriver feedback was also considered alongside the simulation results. Where different drivers preferred different vehicle characteristics, the setup could be adjusted while still using objective data to understand the performance consequences of those changes. This allowed us to develop circuit-specific and driver-specific setup directions rather than relying on a single compromise configuration.",
       "result": "The project allowed several important vehicle-development decisions to be made before the corresponding components were physically manufactured or tested.\nFor the new transmission, lap-time simulation provided a direct method of comparing alternative ratios and identifying the configuration that offered the most appropriate compromise between acceleration, available wheel torque and maximum useful speed for the vehicle's expected operating conditions. Instead of defining the gearing from a single design target, the decision could be justified according to its effect on complete-vehicle performance around a circuit.\nThe same simulation-led approach supported the development of the new suspension and chassis, allowing multiple geometries and configurations to be screened virtually before selecting the most promising solutions for implementation.\nFinally, the project established a repeatable setup-development workflow. Different configurations could be prepared for specific circuit characteristics and driver requirements, with every change assessed through objective KPIs before being validated physically.\nOverall, the project connected powertrain definition, suspension design, setup development and lap-time simulation within the same performance environment, allowing major vehicle decisions to be made based on their measurable effect on the complete car rather than on individual subsystem performance alone.",
       "tools": "MATLAB, Simulink, Simscape, IPG Carmaker ",
       "order": 3,
       "period": "2024–2026",
       "team": "E-Tech Formula Student",
-      "role": "Performance lead",
+      "role": "Performance Engineer (2024–2025); Head of Performance (2025–2026)",
       "challenge": "The development of a new vehicle introduced several decisions that had to be made before extensive physical testing was possible. One of the most important was defining the gear ratio of the new transmission, as the selected ratio directly influenced wheel torque, acceleration capability, maximum speed and the operating range of the powertrain around a lap.\nRather than selecting the ratio from a single acceleration calculation or theoretical top-speed target, the objective was to evaluate different transmission configurations within the complete vehicle and circuit environment. This allowed us to understand the compromise between stronger acceleration from shorter gearing and the higher speed capability provided by longer gearing, and ultimately determine which configuration produced the best overall performance.\nThe same approach was applied to the development of the new suspension geometry and chassis configuration. Different design alternatives could be evaluated virtually before manufacturing, reducing the need for costly physical iterations.\nFinally, the project aimed to establish a structured setup optimisation process, adapting the vehicle to the characteristics of different circuits and, where necessary, to the preferences and driving characteristics of individual drivers.",
       "images": [
         "./media/43abdbb9-0204-477a-a7ea-edcbfa2c009f.png",
@@ -113,10 +112,15 @@
       ],
       "published": true,
       "imageCaptions": {
-        "./media/43abdbb9-0204-477a-a7ea-edcbfa2c009f.png": "CAD of the final suspension geometry. ",
+        "./media/43abdbb9-0204-477a-a7ea-edcbfa2c009f.png": "CAD of the final suspension geometry.",
         "./media/cf5b948d-7ebd-406f-8029-9d42f6a3a226.jpg": "Early iteration of the new suspension geometry.",
-        "./media/c7aba302-2e45-48ef-803b-bb52823aeb32.png": ""
-      }
+        "./media/c7aba302-2e45-48ef-803b-bb52823aeb32.png": "Simulated change in battery state of charge (%) versus gear ratio.",
+        "./media/47a311f5-2f25-49ab-8adc-80243781f865.png": "Simulated average speed (m/s) versus gear ratio.",
+        "./media/c57a4773-490b-4beb-8210-d660a70f2a34.png": "Simulated acceleration time (s) versus gear ratio.",
+        "./media/9669fe94-99e9-4d36-87f9-cf83a2ea4659.png": "Simulated lap time (s) versus gear ratio.",
+        "./media/39261d23-de8f-4a24-816b-93ed6400927d.png": "Simulated speed at 30 m and 75 m (km/h) versus gear ratio."
+      },
+      "overview": "Using the full-vehicle simulation environment developed within the Performance department, I supported the definition of key parameters for the next vehicle before the final components were manufactured.\nThe project combined transmission ratio selection, suspension and chassis development, and setup optimisation, using lap-time simulation and vehicle-dynamics analysis to compare different configurations quantitatively and identify the solutions offering the greatest overall performance potential."
     },
     {
       "collection": "motorsport",
@@ -124,13 +128,13 @@
       "title": "2026 F1 Active Aero Front Wing Concept",
       "category": "Design & Simulation",
       "period": "2025",
-      "team": "Independent Project ",
-      "summary": "In 2025, following the publication of the new Formula 1 technical framework for 2026, I independently developed a regulation-driven active front-wing concept to explore how the new movable aerodynamic architecture could be implemented before the new generation of cars had entered competition.\nThe project covered the complete development process, from interpreting the regulatory geometry and defining the aerodynamic surfaces to designing the wing's actuation mechanism, movement range and technical drawings. CFD analysis was then used to investigate the aerodynamic behaviour of the concept in both its high-downforce and low-drag configurations.",
+      "team": "Independent Project",
+      "summary": "An independent active front-wing concept for the 2026 Formula 1 framework, combining CAD, mechanism design and CFD analysis.",
       "role": "Designer",
       "challenge": "The introduction of active aerodynamics for the 2026 Formula 1 regulations created a completely different front-wing design problem. The wing could no longer be considered purely as a fixed aerodynamic surface: its geometry had to satisfy the regulatory volume while also operating effectively in two distinct aerodynamic states.\nI set myself the challenge of developing a complete 2026-compliant active front-wing concept from the regulations available at the time. The primary objective was to maximise useful front-end aerodynamic performance in the cornering configuration while creating a second configuration capable of significantly reducing drag on the straights.\nThis required considering not only the aerodynamic surfaces themselves, but also the kinematics and mechanical integration of the movable elements. The flap movement, rotation axis, achievable angle range and actuation concept all had to be incorporated without violating the prescribed geometric constraints.\nThe project therefore became an exercise in translating a technical regulation into a complete engineering concept, connecting regulatory interpretation, aerodynamic design and mechanical system development.",
       "approach": "The project began with a detailed review of the available 2026 Formula 1 technical regulations, using the prescribed bodywork volumes and bounding-box constraints to establish the allowable geometry of the front wing. The overall dimensions, element positioning and movable surfaces were developed within this regulatory envelope rather than designing the aerodynamic shape independently and adapting it afterwards.\nFrom this initial geometry, I developed the wing surfaces and investigated different profiles, element relationships and angles of attack. The aim was to produce a configuration capable of generating strong front-end load in the normal cornering state while maintaining a controllable aerodynamic response across the intended operating range.\nThe active system was then developed around the movable flap architecture. I designed the kinematic movement and actuation mechanism, defining how the wing would transition between its cornering configuration and the low-drag X-Mode configuration. This included studying the rotation of the active elements, their required travel and the mechanical arrangement necessary to produce repeatable movement while remaining compatible with the wing structure.\nThe aerodynamic development was evaluated using CFD, comparing the behaviour of the wing across the different configurations. Pressure distribution, airflow structures, downforce and drag were analysed to understand how changes to flap angle and geometry influenced the aerodynamic performance of the assembly. Rather than seeking maximum downforce in isolation, the design process focused on the compromise between cornering load and aerodynamic efficiency, while ensuring that the low-drag configuration produced a meaningful reduction in resistance.\nThe project was completed with detailed CAD modelling and technical drawings, defining the geometry and mechanical interfaces of the final concept and converting the aerodynamic study into a fully documented engineering design.",
       "result": "The final outcome was a complete conceptual design for a 2026-style active Formula 1 front wing, developed from regulatory constraints through to aerodynamic and mechanical definition.\nThe project produced both a high-downforce cornering configuration and an active low-drag configuration, allowing the aerodynamic consequences of changing the flap position to be investigated within the same wing architecture. CFD analysis provided a quantitative basis for comparing the configurations and refining the relationship between wing geometry, angle of attack, downforce generation and drag.\nBeyond the aerodynamic surfaces, the project also resulted in a complete concept for the movement and actuation of the active elements, together with the associated CAD models and engineering drawings. This meant that the project extended beyond aerodynamic styling into the integration of a functioning mechanical system.\nMost importantly, it gave me the opportunity to work independently through the complete development process: interpreting a new technical regulation, defining the design space, generating an aerodynamic concept, analysing it numerically, developing the active mechanism and documenting the final solution.",
-      "tools": "Solidworks",
+      "tools": "SolidWorks",
       "images": [
         "./media/bc69a962-76dc-45c2-a462-4abde1124d2b.png",
         "./media/df2111c5-967a-4222-b3eb-781b1e33b2f1.jpg",
@@ -145,16 +149,17 @@
       "published": true,
       "order": 6,
       "imageCaptions": {
-        "./media/bc69a962-76dc-45c2-a462-4abde1124d2b.png": "Front wing full model.",
-        "./media/df2111c5-967a-4222-b3eb-781b1e33b2f1.jpg": "Velocity profile with the DRS closed (Z mode).",
+        "./media/bc69a962-76dc-45c2-a462-4abde1124d2b.png": "Complete front-wing CAD model.",
+        "./media/df2111c5-967a-4222-b3eb-781b1e33b2f1.jpg": "Velocity field in the high-downforce configuration.",
         "./media/a47bf54e-0560-4b02-9168-d31629dae1c1.jpg": "Mesh refinement.",
-        "./media/baeec0ab-95f6-4a15-865e-aa4df5f0d0b6.jpg": "Bounding box of the FIA 2026 Rules.",
-        "./media/976c8eed-d4eb-4074-a5a3-9137ae88fa1f.jpg": "exploited view of all the components.",
+        "./media/baeec0ab-95f6-4a15-865e-aa4df5f0d0b6.jpg": "Design envelope used for the 2026 regulation-based concept.",
+        "./media/976c8eed-d4eb-4074-a5a3-9137ae88fa1f.jpg": "Exploded view of the front-wing components.",
         "./media/fdb1f57c-7dfd-49f4-a89c-c957aba52d95.jpg": "The wing within the bounding box.",
-        "./media/3566c735-dfa7-457b-8261-32c9702281e7.jpg": "Velocity profile with the DRS open (X mode).",
-        "./media/7941204d-a9bb-44dd-ae14-a0659c1dc787.jpg": "Pressure profile with the DRS open (X mode).",
-        "./media/3af46c50-9c95-47b1-ab03-f5befab44ce4.jpg": "Pressure profile with the DRS closed (Z mode)."
-      }
+        "./media/3566c735-dfa7-457b-8261-32c9702281e7.jpg": "Velocity field in the low-drag configuration.",
+        "./media/7941204d-a9bb-44dd-ae14-a0659c1dc787.jpg": "Pressure field in the low-drag configuration.",
+        "./media/3af46c50-9c95-47b1-ab03-f5befab44ce4.jpg": "Pressure field in the high-downforce configuration."
+      },
+      "overview": "In 2025, following the publication of the new Formula 1 technical framework for 2026, I independently developed a regulation-driven active front-wing concept to explore how the new movable aerodynamic architecture could be implemented before the new generation of cars had entered competition.\nThe project covered the complete development process, from interpreting the regulatory geometry and defining the aerodynamic surfaces to designing the wing's actuation mechanism, movement range and technical drawings. CFD analysis was then used to investigate the aerodynamic behaviour of the concept in both its high-downforce and low-drag configurations."
     },
     {
       "id": "honda-welding",
@@ -162,7 +167,7 @@
       "category": "Manufacturing",
       "summary": "Industrialising a robotic MAG welding cell at Montesa Honda.",
       "approach": "I followed the complete industrialisation process from initial concept to series production. The project began with a technical and economic feasibility study, including investment analysis, capacity requirements and comparison of different cell configurations. I then benchmarked several suppliers and evaluated their proposals based on technical performance, cost, quality, delivery, maintainability and integration requirements before selecting the final solution.\nDuring industrialisation, I coordinated the installation of the cell, adapted the existing welding fixtures and worked on the robot trajectories and MAG process parameters. The initial offline programs were progressively refined on the physical cell, optimising torch accessibility, welding sequence, non-productive movements and heat distribution.\nValidation was performed iteratively rather than treating the first programmed solution as final. Weld quality was assessed through visual inspection and macrographic analysis, while 3D dimensional measurements were used to identify deformation produced during welding. When deviations were detected, parameters, fixture conditions and weld sequencing were modified and the parts were revalidated. Finally, the cell was integrated with the factory MES system for production monitoring and traceability. ",
-      "result": "The project resulted in a fully industrialised robotic cell operating in series production. For the Engine Guard, process and trajectory optimisation reduced cycle time by 25 seconds per part. A second component, previously welded manually in two separate stages, was redesigned around the new process and consolidated into a single robotic welding operation.\n\nThe final welding processes passed the required visual, macrographic and dimensional quality controls, while the cell reached approximately 92% OEE, exceeding the original 90% target. Integration with MES also introduced continuous production monitoring and traceability, while the flexible cell architecture left capacity available for the future introduction of additional references.\n\nThis project was also developed as my Bachelor’s Thesis in Mechanical Engineering, for which I was awarded a 10/10 with Matrícula de Honor, the highest academic distinction available.",
+      "result": "The project resulted in a fully industrialised robotic cell operating in series production. For the Engine Guard, process and trajectory optimisation reduced cycle time by 25 seconds per part. A second component, previously welded manually in two separate stages, was redesigned around the new process and consolidated into a single robotic welding operation.\n\nThe final welding processes passed the required visual, macrographic and dimensional quality controls, while the cell reached approximately 92% OEE, exceeding the original 90% target. Integration with MES also introduced continuous production monitoring and traceability, while the flexible cell architecture left capacity available for the future introduction of additional references.\n\nThis project was also developed as my Bachelor’s Thesis in Mechanical Engineering, for which I was awarded 10/10 with Highest Honours for the thesis.",
       "tools": "Robotics, Process engineering, Quality validation",
       "order": 7,
       "period": "2025–2026",
@@ -177,23 +182,23 @@
       "published": true,
       "collection": "beyond",
       "imageCaptions": {
-        "./media/5426e2a7-2888-4432-a6c5-74e00f8d7677.jpg": "Final product of the Project - Full working welding cell.",
-        "./media/0922e501-2727-499f-8d33-d711a6461eca.jpg": "Product of study number 1.",
-        "./media/7091ac9a-fa55-4d7d-98f3-e02c292e11d0.png": "Product of study number 2."
+        "./media/0922e501-2727-499f-8d33-d711a6461eca.jpg": "First component evaluated in the welding-cell study.",
+        "./media/7091ac9a-fa55-4d7d-98f3-e02c292e11d0.png": "Second component evaluated in the welding-cell study.",
+        "./media/caa48556-50c4-4c76-ade7-490bb208a303.jpg": "The industrialised robotic MAG welding cell."
       }
     },
     {
       "id": "motorcycle-restomod",
       "title": "Electric Motorcycle Conversion & Vehicle Integration",
       "category": "Restoration",
-      "summary": "A restomod of a motorcycle more than 40 years old.",
+      "summary": "Converting a 1983 motorcycle to electric power, from restoration to powertrain integration.",
       "approach": "I began by completely disassembling the motorcycle and evaluating which original components could be restored and reused. The chassis, swingarm, bodywork and several mechanical components were refurbished before the vehicle was rebuilt around the new electric architecture.     \n\nDifferent powertrain configurations were analysed before selecting an 8 kW hub motor, a programmable 72 V Sabvoton controller and a 72 V, 40 Ah battery with BMS. Component selection considered power requirements, mass, physical dimensions, reliability and compatibility with the original chassis. I also calculated the expected vehicle mass, power-to-weight ratio, battery capacity, theoretical range and charging time before integrating the system.   \n\nMechanical integration required measuring and adapting the suspension, wheels and hydraulic braking system, comparing mounting dimensions, axle diameters and component geometry to maintain correct alignment and minimise unwanted clearances. Problems encountered during assembly were solved iteratively, including developing a mechanical solution to prevent the hub-motor axle from rotating under torque.   \n\nI also programmed the controller with a battery-protection strategy, progressive power delivery and three selectable driving maps ( Eco, Normal and Sport ) to modify the motorcycle's response depending on efficiency and performance requirements.     \n\nFinally, I designed a custom fibreglass enclosure/fairing around the central section of the motorcycle. Its purpose was not only aesthetic: it provided a dedicated cover for the battery and electrical components, protecting them from rain and external exposure while allowing the new electric architecture to be integrated cleanly into the original motorcycle design.",
-      "result": "The project resulted in the transformation of a four-decade-old motorcycle platform into a modern electric-vehicle architecture while retaining much of the original chassis and character.\n\nThe final configuration combined an 8 kW electric hub motor, programmable controller and 72 V battery, with an estimated vehicle mass of approximately 109 kg, a calculated power-to-weight ratio of 10.02 kg/CV, 2.88 kWh of battery capacity and approximately 80 km of theoretical range.    \n\nBeyond the physical conversion, the project gave me practical experience in vehicle integration, electric powertrains, mechanical packaging, braking and suspension compatibility, electrical architecture and programmable vehicle controls. The different motor maps and power-delivery strategy also allowed the behaviour of the motorcycle to be modified according to the intended operating condition.\n\nWhat makes the project particularly significant to me is that I began it independently at only 16 years old, long before starting my engineering degree. It was one of my first experiences taking a complex mechanical system, breaking it down into individual engineering problems and then designing, building and troubleshooting a complete solution myself.",
-      "tools": "Mechanical restoration, Solidworks",
+      "result": "The project resulted in the transformation of a 1983 motorcycle platform into a modern electric-vehicle architecture while retaining much of the original chassis and character.\n\nThe final configuration combined an 8 kW electric hub motor, programmable controller and 72 V battery, with an estimated vehicle mass of approximately 109 kg, a calculated power-to-weight ratio of 10.02 kg/CV, 2.88 kWh of battery capacity and approximately 80 km of theoretical range.    \n\nBeyond the physical conversion, the project gave me practical experience in vehicle integration, electric powertrains, mechanical packaging, braking and suspension compatibility, electrical architecture and programmable vehicle controls. The different motor maps and power-delivery strategy also allowed the behaviour of the motorcycle to be modified according to the intended operating condition.\n\nWhat makes the project particularly significant to me is that I began it independently at only 16 years old, long before starting my engineering degree. It was one of my first experiences taking a complex mechanical system, breaking it down into individual engineering problems and then designing, building and troubleshooting a complete solution myself.",
+      "tools": "Mechanical restoration, SolidWorks",
       "order": 8,
       "period": "2021",
       "team": "Independent project",
-      "role": "Personal research project ",
+      "role": "Personal research project",
       "challenge": "I started this personal project at the age of 16, with two objectives in mind. The first was to restore a neglected 1983 Derbi Sport Copa 75cc and transform it into a fully electric motorcycle while preserving as much of its original character as possible.\n\nThe second objective was more personal. At that age, I was still several years away from beginning my engineering degree, but I already knew that I wanted to pursue engineering and work with vehicles. Since I could not yet gain experience through university or professional engineering roles, I decided to create my own opportunity and take on a project that would force me to approach problems in a more structured and technical way.\n\nThe conversion therefore became much more than a restoration. It gave me the opportunity to start working with component selection, mechanical design, vehicle packaging, electric powertrains, electrical integration, control systems and practical problem-solving long before beginning formal engineering education.\nFrom a technical perspective, the challenge was to redesign the motorcycle around a completely different propulsion architecture. The motor, battery, controller, suspension, braking system and electrical components all had to be selected and integrated while considering compatibility, weight, packaging, safety and overall vehicle functionality.     \n\nUltimately, the project was my first attempt to move beyond simply being interested in engineering and begin actually working through an engineering problem from concept to a physical solution. That same motivation , to understand how vehicles work by designing, building and testing them myself was one of the reasons I later chose to pursue Mechanical Engineering.",
       "images": [
         "./media/674b3fbc-8b0d-4acc-b7bb-6f361c7b3a03.jpg",
@@ -209,11 +214,11 @@
       "imageCaptions": {
         "./media/674b3fbc-8b0d-4acc-b7bb-6f361c7b3a03.jpg": "Finished bike without fairings.",
         "./media/8695b676-fd7f-44d3-a05f-8d31781affc9.png": "Restored chassis.",
-        "./media/83adb700-c18a-4815-8d26-4f72b59e08f8.png": "chassis before restoration.",
+        "./media/83adb700-c18a-4815-8d26-4f72b59e08f8.png": "Chassis before restoration.",
         "./media/eac2bc50-8baa-4caf-9d05-d85f8e5dbaf1.png": "Restored fuel tank and undercowl.",
         "./media/2d7e3ada-3f3d-4c6f-96a4-487169e3c2d9.jpg": "Motorcycle before restoration.",
-        "./media/5e927ec5-42e5-4f2f-88dc-ffd000c1871f.jpg": "Self made electrolysis rust removal with 12v battery.",
-        "./media/558ab35c-d718-4c37-bdfe-1c2734af9f89.jpg": "sanding of the fairing mold."
+        "./media/5e927ec5-42e5-4f2f-88dc-ffd000c1871f.jpg": "Homemade electrolysis setup for rust removal using a 12 V battery.",
+        "./media/558ab35c-d718-4c37-bdfe-1c2734af9f89.jpg": "Sanding the fairing mould."
       }
     }
   ],
